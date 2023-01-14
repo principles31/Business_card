@@ -1,7 +1,7 @@
 body {
     margin: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-   
+
 }
 
 .Avater_img {
@@ -22,11 +22,27 @@ body {
     background: #ddebf8;
     color: #2b2839;
     border-radius: 4px;
-    
-   
+
+
+}
+
+.span_stack {
+    text-decoration: underline;
+}
+
+h3 {
+    font-family: 'Sacramento', cursive;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .a hover {
     background-color: antiquewhite;
-    
+
 }
